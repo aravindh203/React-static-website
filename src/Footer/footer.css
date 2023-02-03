@@ -1,0 +1,17 @@
+.footer-container{
+    padding: 30px 0px;
+    background-color: black;
+    color: white;
+    line-height: 1.5;
+    font-size: 15px;
+    border-top: 1px solid #ffffff26;
+}
+.footer-container{
+    text-align: center;
+}
+.copyright span{
+    font-weight: bold;
+}
+.design span{
+    color: aqua;
+}
