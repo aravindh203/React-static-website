@@ -23,7 +23,8 @@
     padding: 10px 40px;
     color: white;
     background-color: #27a776;
-    border-radius: 5px;    
+    border-radius: 5px;  
+    border: none;  
 }
 .about-content span{
     font-family: 'Nanum Myeongjo', serif;
